@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.env" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/TasksController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/UsersAllController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Controllers/UsersBasisController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Kernel.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Middleware/Cors.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Models/Task.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Models/UsersAll.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Models/UsersBasis.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2021_04_10_220456_create_tasks_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2021_04_12_022344_create_all_users_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/database/migrations/2021_04_12_134424_create_users_bases_table.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/routes/web.php" charset="UTF-8" />
+  </component>
+</project>
